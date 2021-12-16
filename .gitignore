@@ -1,0 +1,18 @@
+
+/node_modules
+/package-lock.json
+
+# Generated distribution
+/dist
+
+# Local env files
+/.env.local
+/.env.*.local
+
+# Log files
+/npm-debug.log*
+ 
+# Editor configuration
+/.vscode
+
+ 
